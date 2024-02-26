@@ -7,7 +7,7 @@ Spring semester 2024
 * Learning outcome: competence in applying transparent ML to discover knowledge in Life Sciences
 * Focus on so-called Rule-based Modeling (RBM) and Decision Tree-based Modeling (DT)
 
-Main areas covered and practiced:
+Main areas covered and practiced using R:
 
 * Clustering
 * Rough-Set Theory
